@@ -1,0 +1,10 @@
+services:
+  tests:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: serverest-api-tests:latest
+    environment:
+      - UV_NO_CACHE=1
+    env_file:
+      - .env

@@ -1,0 +1,40 @@
+{
+    "produtos": [
+        {
+            "nome": "Inverse multi-tasking knowledge user",
+            "preco": 762,
+            "descricao": "Upgradable 4thgeneration application",
+            "quantidade": 32
+        },
+        {
+            "nome": "Progressive contextually-based extranet",
+            "preco": 378,
+            "descricao": "Profound tertiary knowledgebase",
+            "quantidade": 43
+        },
+        {
+            "nome": "Re-engineered encompassing parallelism",
+            "preco": 206,
+            "descricao": "Horizontal asymmetric utilization",
+            "quantidade": 98
+        },
+        {
+            "nome": "Triple-buffered optimal ability",
+            "preco": 486,
+            "descricao": "Cross-platform real-time conglomeration",
+            "quantidade": 24
+        },
+        {
+            "nome": "Exclusive responsive model",
+            "preco": 625,
+            "descricao": "Public-key intermediate extranet",
+            "quantidade": 36
+        },
+        {
+            "nome": "Pre-emptive system-worthy Local Area Network",
+            "preco": 727,
+            "descricao": "Optional needs-based analyzer",
+            "quantidade": 56
+        }
+    ]
+}

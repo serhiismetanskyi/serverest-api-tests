@@ -1,0 +1,40 @@
+{
+    "produtos": [
+        {
+            "nome": "Devolved leadingedge encryption",
+            "preco": 495,
+            "descricao": "Synergistic tertiary forecast",
+            "quantidade": 60
+        },
+        {
+            "nome": "Programmable hybrid open architecture",
+            "preco": 803,
+            "descricao": "Multi-tiered modular toolset",
+            "quantidade": 54
+        },
+        {
+            "nome": "Intuitive methodical strategy",
+            "preco": 185,
+            "descricao": "Adaptive explicit architecture",
+            "quantidade": 62
+        },
+        {
+            "nome": "Profit-focused uniform alliance",
+            "preco": 884,
+            "descricao": "Synergized tertiary task-force",
+            "quantidade": 80
+        },
+        {
+            "nome": "Cross-group asynchronous task-force",
+            "preco": 115,
+            "descricao": "Multi-channeled contextually-based access",
+            "quantidade": 88
+        },
+        {
+            "nome": "Open-architected human-resource product",
+            "preco": 234,
+            "descricao": "Realigned non-volatile parallelism",
+            "quantidade": 16
+        }
+    ]
+}

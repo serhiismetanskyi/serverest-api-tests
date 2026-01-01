@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "nome": "Melissa Singleton",
+            "email": "ashley87@example.net",
+            "password": "m6_dOOcK+R",
+            "administrador": "true"
+        },
+        {
+            "nome": "David Stanley",
+            "email": "nicholejordan@example.com",
+            "password": "O^2fXExuMj",
+            "administrador": "false"
+        },
+        {
+            "nome": "Timothy Rich",
+            "email": "anthonyfarrell@example.com",
+            "password": "CEQl8!vS$0",
+            "administrador": "false"
+        }
+    ]
+}
